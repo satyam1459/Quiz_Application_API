@@ -2,6 +2,7 @@
 This repository contains the code for a Quiz Application API that allows users to practice quiz and admin to add question , update questions, delete questions and also prepare quiz for users on a specific topic.
 
 >### Prerequisites
+
 * ![MySql](https://img.shields.io/badge/DBMS-MYSQL%205.7%20or%20Higher-red)
  * ![SpringBoot](https://img.shields.io/badge/Framework-SpringBoot-green)
 
